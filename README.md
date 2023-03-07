@@ -12,7 +12,7 @@ Practice using HTML tags to structure a content on web pages.
 <div id="exercise 1">
 <!--Complete Exercise 1 here-->
 <h1>Matthew Luchini</h1>
-<p>My name is Mtthew Luchini and I am a student at truecoders. My current goal is the obain a full time job in tech. I have been working as a bartender for a few years and have been always fascinated with coding. I currently reside in Florida and will be moving back to Colorado within the next 2 months.
+<p>My name is Matthew Luchini and I am a student at truecoders. My current goal is the obain a full time job in tech. I have been working as a bartender for a few years and have been always fascinated with coding. I currently reside in Florida and will be moving back to Colorado within the next 2 months. I am very excited for this new start in a new career!
 <p>
 </div>
 

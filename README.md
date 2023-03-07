@@ -19,7 +19,7 @@ Practice using HTML tags to structure a content on web pages.
 <div id="exercise 2">
 <!--Complete Exercise 2 here-->
 <ul>
-   <li><a href="https://www.linkedin.com/in/matt-luchini/" target ="_blank">My LinkedIn</a><li>
+   <li><a href="https://www.linkedin.com/in/matt-luchini/" target ="_blank">My LinkedIn</a></li>
    <li><a href="https://truecoders.io/" target ="_blank">TrueCoders</a></li>
    <li><a href="https://www.amazon.com/" target ="_blank">My favorite website</a></li>
 </ul>

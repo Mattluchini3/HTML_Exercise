@@ -20,8 +20,8 @@ Practice using HTML tags to structure a content on web pages.
 <!--Complete Exercise 2 here-->
 <ul>
    <li><a href="https://www.linkedin.com/in/matt-luchini/" target ="_blank">My LinkedIn</a><li>
-   <li><a href="https://truecoders.io/" target="_blank">TrueCoders</a></li>
-   <li><a href="https://www.amazon.com/" target="_blank">My favorite website</a></li>
+   <li><a href="https://truecoders.io/" target ="_blank">TrueCoders</a></li>
+   <li><a href="https://www.amazon.com/" target ="_blank">My favorite website</a></li>
 </ul>
 </div>
 
@@ -89,7 +89,7 @@ I looked down at the board. "The <strong>point</strong> isn't to win?" I asked. 
 
  <div>
      <p>Powered by 🕯️</p>
-         <p>&copy; TrueCoders 2021-24</p>
+         <p>&copy; TrueCoders 2023</p>
           </div>
        </footer>
       </div>

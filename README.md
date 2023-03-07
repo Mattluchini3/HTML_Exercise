@@ -9,56 +9,90 @@ slug: "/html-intro-exercise"
 
 Practice using HTML tags to structure a content on web pages.
 
-## Exercise 1
+<div id="exercise 1">
+<!--Complete Exercise 1 here-->
+<h1>Matthew Luchini</h1>
+<p>My name is Mtthew Luchini and I am a student at truecoders. My current goal is the obain a full time job in tech. I have been working as a bartender for a few years and have been always fascinated with coding. I currently reside in Florida and will be moving back to Colorado within the next 2 months.
+<p>
+</div>
 
-Steps are to be completed under the div with `id="exercise1"`
+<div id="exercise 2">
+<!--Complete Exercise 2 here-->
+<ul>
+   <li><a href="https://www.linkedin.com/in/matt-luchini/" target ="_blank">My LinkedIn</a><li>
+   <li><a href="https://truecoders.io/" target="_blank">TrueCoders</a></li>
+   <li><a href="https://www.amazon.com/" target="_blank">My favorite website</a></li>
+</ul>
+</div>
 
-1. Create a **heading 1** element that contains your name between opening and closing tags
-2. Create a **paragraph** element that contains a bio about yourself
+<div id="exercise 3">
+<!--Complete Exercise 3 here-->
+<img src ="./images/example.png" alt="Avatar."/>
+</div>
 
-## Exercise 2
+<div id="exercise 4">
+<!--Complete Exercise 4 here-->
+I looked down at the board. "The <strong>point</strong> isn't to win?" I asked. "The <strong>point</strong>," <span>Bredon</span> said grandly, "is to <u>play</u> a <em>beautiful</em> game." He lifted his hands and shrugged, his face breaking into a beautific smile. "Whywould I want to win anything other than a <em>beautiful</em> game?"
 
-Steps are to be completed under the div with `id="exercise2"`
+<div id="exercise 5">
+<!--Complete Exercise 5 here-->
+<header>
+        <nav>
+          <ul>
+            <li>
+              <a href="/">Home</a>
+            </li>
+            <li>
+              <a href="/about">About</a>
+            </li>
+            <li>
+              <a href="/projects">Projects</a>
+            </li>
+          </ul>
+        </nav>
+      </header>
 
-1. Create an **unordered list** element
-2. Create three **list item** elements nested inside of the **unordered list** that your just created
-3. Create an **anchor** element inside of _each_ **list item** that you just created in your **unordered list**
-4. Each **anchor** element should link to the following:
-   - The first **anchor** element should link to your _LinkedIn profile_
-   - The second **anchor** element should link to the _TrueCoders homepage_
-   - The third **anchor** element should link to your _most visited website_
+ <main>
+      <section>
+         <h1>Main Heading</h1>
+           <p>Author.. Bio...</p>
+             </section>
+               <article>
+             <section>
+          <h2>Sub Heading</h2>
+               <div>
+                   <p>Lorem ipsum...</p>
+                      </div>
+                </section>
+             <section>
+          <h2>Sub Heading</h2>
+       <p>Lorem ipsum...</p>
+   <div>
+       <h3>Another Sub Heading</h3>
+          <p>Lorem ipsum...</p>
+             </div>
+                </section>
+                  </article>
+                   </main>
 
-## Exercise 3
+   <footer>
+      <nav>
+          <ul>
+             <li>
+                <a href="/privacy">Privacy Policy</a>
+             </li>
+           <li>
+         <a href="/terms">Terms and Conditions</a>
+       </li>
+          </ul>
+           </nav>
 
-Steps are to be completed under the div with `id="exercise3"`
+ <div>
+     <p>Powered by 🕯️</p>
+         <p>&copy; TrueCoders 2021-24</p>
+          </div>
+       </footer>
+      </div>
 
-1. Create an **image** element
-2. Add an **src** attribute with a _relative path_ value that points to the `./images/example.png` file
-3. Add an **alt** attribute with a _text description_ value of the image
-
-## Exercise 4
-
-Steps are to be completed under the div with `id="exercise4"`
-
-1. Edit the **paragraph** element's text content so that:
-   - the word "Bredon" is enclosed in a span element
-   - any word "play" is enclosed in an underline element
-   - any word "beautiful" is enclosed in an emphasis element
-   - any word "point" is enclosed in an strong element
-
-## Exercise 5
-
-Steps are to be completed under the div with `id="exercise5"`
-
-1. Edit the blog post so that more _semantically meaningful_ elements are used instead of generic **division** containers.
-   - You will need to use
-     - **one main element**
-     - **three section elements**
-     - **one article element**
-     - **one header element**
-     - **two nav element**
-     - **two unordered list element**
-     - **five list item elements**
-     - **five anchor elements**
-     - **one footer element**
-   - To be completed, you should have no more than **three division elements** and **zero span elements** (not including the div with `id="exercise5"`)
+  </body>
+</html>
